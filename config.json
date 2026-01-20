@@ -25,12 +25,9 @@
         "minReceiveItems": 2,
         "maxReceiveItems": 4,
         "blacklisted": [
-            "1213472762",
-            "15054210",
-            "13416321"
         ],
-        "minTotalSend": 12000,
-        "maxTotalSend": 1000000,
+        "minTotalSend": 18000,
+        "maxTotalSend": 18001,
         "minTotalRequestValue": 12000,
         "maxTotalRequestValue": 1000000000,
         "minUpgPercent": 7,
