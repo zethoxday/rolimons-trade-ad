@@ -29,9 +29,9 @@
             "15054210",
             "13416321"
         ],
-        "minTotalSend": 30000,
+        "minTotalSend": 12000,
         "maxTotalSend": 1000000,
-        "minTotalRequestValue": 30000,
+        "minTotalRequestValue": 12000,
         "maxTotalRequestValue": 1000000000,
         "minUpgPercent": 7,
         "maxUpgPercent": 12,
