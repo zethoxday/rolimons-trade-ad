@@ -3,20 +3,24 @@
     "specificItems": {
         "enabled": false,
         "sendingItems": [
-            "ITEM_ID_1",
-            "ITEM_ID_2"
+            "398674411",
+            "1428424821",
+            "564449640",
+            "19027209"
         ],
         "receivingItems": [
             "ITEM_ID_3",
             "ITEM_ID_4"
         ],
         "tags": [
-            "exampleTag"
+            "upgrade",
+            "downgrade",
+            "demand"
         ],
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
     },
     "smartAlgo": {
-        "enabled": true,
+        "enabled": false,
         "upgrade": false,
         "downgrade": false,
         "any": true,
